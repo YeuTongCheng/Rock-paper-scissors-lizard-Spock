@@ -23,4 +23,4 @@ def number_to_name(number):
     elif number==4:
         return "scissors"
     else:
-      return "wrong range"
+        return "wrong range"
